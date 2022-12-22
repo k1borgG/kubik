@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kubik/static/css/main.4f27a639.chunk.css",
-    "main.js": "/kubik/static/js/main.aed93761.chunk.js",
-    "main.js.map": "/kubik/static/js/main.aed93761.chunk.js.map",
+    "main.js": "/kubik/static/js/main.d3267121.chunk.js",
+    "main.js.map": "/kubik/static/js/main.d3267121.chunk.js.map",
     "runtime-main.js": "/kubik/static/js/runtime-main.d86c37b0.js",
     "runtime-main.js.map": "/kubik/static/js/runtime-main.d86c37b0.js.map",
     "static/js/2.6632e631.chunk.js": "/kubik/static/js/2.6632e631.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d86c37b0.js",
     "static/js/2.6632e631.chunk.js",
     "static/css/main.4f27a639.chunk.css",
-    "static/js/main.aed93761.chunk.js"
+    "static/js/main.d3267121.chunk.js"
   ]
 }
