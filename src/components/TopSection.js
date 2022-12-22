@@ -14,7 +14,7 @@ function TopSection() {
       <div className="top__container">
         <div className="top__content">
           <div className="top__content-right">
-            <h1 className="top__title">Поддержка сайтов на Drupal</h1>
+            <h1 className="top__title">оддержка сайтов на Drupal</h1>
             <h2 className="top__subtitle">
               Сопровождение и поддержка сайтов <br /> на CMS Drupal любых версий
               и запущенности
