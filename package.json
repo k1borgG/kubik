@@ -2,6 +2,7 @@
   "name": "react-kubsu-main",
   "version": "1.4.8.8",
   "private": true,
+  "homepage": "https://k1borgG.github.io/kubik",
   "dependencies": {
     "@formcarry/react": "^1.0.3",
     "@testing-library/jest-dom": "^5.15.0",
@@ -22,6 +23,8 @@
     "yup": "^0.32.11"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,6 +49,7 @@
     ]
   },
   "devDependencies": {
-    "@hookform/resolvers": "^2.8.3"
+    "@hookform/resolvers": "^2.8.3",
+    "gh-pages": "^4.0.0"
   }
 }
