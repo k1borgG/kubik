@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/kubik/static/css/main.daf6a279.chunk.css",
-    "main.js": "/kubik/static/js/main.073bd001.chunk.js",
-    "main.js.map": "/kubik/static/js/main.073bd001.chunk.js.map",
+    "main.css": "/kubik/static/css/main.4ba1a521.chunk.css",
+    "main.js": "/kubik/static/js/main.3131db4c.chunk.js",
+    "main.js.map": "/kubik/static/js/main.3131db4c.chunk.js.map",
     "runtime-main.js": "/kubik/static/js/runtime-main.d86c37b0.js",
     "runtime-main.js.map": "/kubik/static/js/runtime-main.d86c37b0.js.map",
-    "static/js/2.c19d2021.chunk.js": "/kubik/static/js/2.c19d2021.chunk.js",
-    "static/js/2.c19d2021.chunk.js.map": "/kubik/static/js/2.c19d2021.chunk.js.map",
+    "static/js/2.0a5a1301.chunk.js": "/kubik/static/js/2.0a5a1301.chunk.js",
+    "static/js/2.0a5a1301.chunk.js.map": "/kubik/static/js/2.0a5a1301.chunk.js.map",
     "index.html": "/kubik/index.html",
-    "static/css/main.daf6a279.chunk.css.map": "/kubik/static/css/main.daf6a279.chunk.css.map",
-    "static/js/2.c19d2021.chunk.js.LICENSE.txt": "/kubik/static/js/2.c19d2021.chunk.js.LICENSE.txt",
+    "static/css/main.4ba1a521.chunk.css.map": "/kubik/static/css/main.4ba1a521.chunk.css.map",
+    "static/js/2.0a5a1301.chunk.js.LICENSE.txt": "/kubik/static/js/2.0a5a1301.chunk.js.LICENSE.txt",
+    "static/media/ExpertiseSection.scss": "/kubik/static/media/Expertise__bg.aa0e267c.png",
+    "static/media/Modal.scss": "/kubik/static/media/Form__bg.7306d54c.png",
     "static/media/TopSection.scss": "/kubik/static/media/Top__bg.15f4e2fa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d86c37b0.js",
-    "static/js/2.c19d2021.chunk.js",
-    "static/css/main.daf6a279.chunk.css",
-    "static/js/main.073bd001.chunk.js"
+    "static/js/2.0a5a1301.chunk.js",
+    "static/css/main.4ba1a521.chunk.css",
+    "static/js/main.3131db4c.chunk.js"
   ]
 }
