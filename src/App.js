@@ -4,6 +4,7 @@ import ServiceSection from './components/ServiceSection';
 import SupportSection from './components/SupportSection';
 import ExpertiseSection from './components/ExpertiseSection';
 import PlansSection from './components/PlansSection';
+import CasesSection from './components/CasesSection';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
     <SupportSection />
     <ExpertiseSection />
     <PlansSection />
+    <CasesSection />
    </>
   );
 }
