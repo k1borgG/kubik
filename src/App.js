@@ -8,6 +8,7 @@ import CasesSection from './components/CasesSection';
 import TeamsSection from './components/TeamsSection';
 import SliderSection from './components/SliderSection';
 import PartnersSection from './components/PartnersSection';
+import FormSection from './components/FormSection';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
     <TeamsSection />
     <SliderSection />
     <PartnersSection />
+    <FormSection />
    </>
   );
 }
