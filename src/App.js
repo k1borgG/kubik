@@ -7,6 +7,8 @@ import PlansSection from './components/PlansSection';
 import CasesSection from './components/CasesSection';
 import TeamsSection from './components/TeamsSection';
 import SliderSection from './components/SliderSection';
+import PartnersSection from './components/PartnersSection';
+
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
     <CasesSection />
     <TeamsSection />
     <SliderSection />
+    <PartnersSection />
    </>
   );
 }
