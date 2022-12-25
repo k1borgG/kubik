@@ -6,6 +6,7 @@ import ExpertiseSection from './components/ExpertiseSection';
 import PlansSection from './components/PlansSection';
 import CasesSection from './components/CasesSection';
 import TeamsSection from './components/TeamsSection';
+import SliderSection from './components/SliderSection';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <PlansSection />
     <CasesSection />
     <TeamsSection />
+    <SliderSection />
    </>
   );
 }
