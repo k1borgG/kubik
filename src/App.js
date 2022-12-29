@@ -9,7 +9,6 @@ import TeamsSection from './components/TeamsSection';
 import SliderSection from './components/SliderSection';
 import PartnersSection from './components/PartnersSection';
 import FormSection from './components/FormSection';
-import FooterSection from './components/FooterSection';
 
 function App() {
   return (
@@ -24,7 +23,6 @@ function App() {
     <SliderSection />
     <PartnersSection />
     <FormSection />
-    <FooterSection />
    </>
   );
 }
