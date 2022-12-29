@@ -9,7 +9,7 @@ import './TopSection.scss';
 function TopSection() {
   return (
     <section className="top">
-      <video src="/video/video.mp4" autoPlay loop muted></video>
+      <video src="video/video.mp4" autoPlay loop muted></video>
       <div className="bg" />
       <div className="top__container">
         <div className="top__content">

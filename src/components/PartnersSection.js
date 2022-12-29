@@ -6,35 +6,35 @@ import './PartnersSection.scss';
 
 export const PartnersItem = [
   {
-    img: '/images/slide1.png',
+    img: 'images/slide1.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide2.png',
+    img: 'images/slide2.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide3.png',
+    img: 'images/slide3.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide4.png',
+    img: 'images/slide4.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide1.png',
+    img: 'images/slide1.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide2.png',
+    img: 'images/slide2.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide3.png',
+    img: 'images/slide3.png',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide4.png',
+    img: 'images/slide4.png',
     alt: 'kubsu',
   },
 ];
