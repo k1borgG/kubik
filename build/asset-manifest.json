@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kubik/static/css/main.259550b4.chunk.css",
+    "main.css": "/kubik/static/css/main.daa2e7df.chunk.css",
     "main.js": "/kubik/static/js/main.2bb3fa42.chunk.js",
     "main.js.map": "/kubik/static/js/main.2bb3fa42.chunk.js.map",
     "runtime-main.js": "/kubik/static/js/runtime-main.d86c37b0.js",
@@ -10,7 +10,7 @@
     "static/js/2.e762765a.chunk.js.map": "/kubik/static/js/2.e762765a.chunk.js.map",
     "index.html": "/kubik/index.html",
     "static/css/2.2a7f5157.chunk.css.map": "/kubik/static/css/2.2a7f5157.chunk.css.map",
-    "static/css/main.259550b4.chunk.css.map": "/kubik/static/css/main.259550b4.chunk.css.map",
+    "static/css/main.daa2e7df.chunk.css.map": "/kubik/static/css/main.daa2e7df.chunk.css.map",
     "static/js/2.e762765a.chunk.js.LICENSE.txt": "/kubik/static/js/2.e762765a.chunk.js.LICENSE.txt",
     "static/media/ExpertiseSection.scss": "/kubik/static/media/Expertise__bg.aa0e267c.png",
     "static/media/FormSection.scss": "/kubik/static/media/Form__bg.7306d54c.png",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d86c37b0.js",
     "static/css/2.2a7f5157.chunk.css",
     "static/js/2.e762765a.chunk.js",
-    "static/css/main.259550b4.chunk.css",
+    "static/css/main.daa2e7df.chunk.css",
     "static/js/main.2bb3fa42.chunk.js"
   ]
 }
