@@ -40,7 +40,7 @@ function Form() {
           text: 'Форма успешно отправлена!',
           icon: 'success',
         });
-        reset({});
+        reset();
       })
       .catch(function (error) {
         console.log(error);
